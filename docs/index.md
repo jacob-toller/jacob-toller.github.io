@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# index
+
+blah blah blah index page
