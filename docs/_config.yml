@@ -33,8 +33,8 @@ plugins:
 
 minima:
   nav_pages:
-    - about.md 
-    - my_cv.HTML
+    - about.md
+    - my_cv.html
     - testpage2.md
 
 # Exclude from processing.
