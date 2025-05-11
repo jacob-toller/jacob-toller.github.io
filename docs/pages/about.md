@@ -10,4 +10,4 @@ This is my personal site that I use as my personal portfolio for people who migh
 
 I'm slowly contributing to this site over time, in terms of both adding my existing projects and adding new projects/content. 
 
-[1^]: As of May 2025, I am employed and not job seeking.
+[^1]: As of May 2025, I am employed and not job seeking.
