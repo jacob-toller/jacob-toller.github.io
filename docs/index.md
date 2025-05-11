@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+exclude: true
 ---
 
-# index
-
-blah blah blah index page
+Welcome to my site, theres not much to display on this landing page but the '[About](/About/)'
