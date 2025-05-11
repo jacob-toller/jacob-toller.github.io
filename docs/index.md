@@ -6,4 +6,4 @@ layout: home
 exclude: true
 ---
 
-Welcome to my site, theres not much to display on this landing page but the '[About](/About/)'
+Welcome to my site, theres not much to display on this landing page but the '[about](/about/)' probably has some more useful info for now.
